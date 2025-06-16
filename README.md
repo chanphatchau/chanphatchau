@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Phát Châu</h1>
+<h1 align="center">👋 Hi, I'm Jamie Chau</h1>
 
 <p align="center">
   🎓 Fresh Data Science Graduate • 📊 Aspiring Data Analyst <br>
@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Master’s in Data Science (Australia)
-- 📍 Currently based in Australia
+- 📍 Currently based in Melbourne, Victoria
 - 🧠 Interested in turning raw data into meaningful insights
 - 🛠️ Tools of the trade: SQL • Power BI • Tableau • Python (Pandas, Matplotlib)
 
