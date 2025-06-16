@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Master’s in Data Science (Australia)
-- 📍 Currently based in Australia 🇦🇺 | Originally from Vietnam 🇻🇳
+- 📍 Currently based in Australia
 - 🧠 Interested in turning raw data into meaningful insights
 - 🛠️ Tools of the trade: SQL • Power BI • Tableau • Python (Pandas, Matplotlib)
 
