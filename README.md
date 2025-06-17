@@ -49,8 +49,9 @@
 - 🚗 **Car Sales Dashboard (Power BI)**  
   Created a multi-page dashboard covering total sales, profit margin analysis, YTD comparisons, and customer segments to guide business decisions.
 
-- 🧹 **Data Cleaning & Exploratory Analysis (Python)**  
-  Applied pandas and matplotlib for cleaning, transforming, and visualizing real-world datasets.
+- 🏘️ **Melbourne Property Price Prediction (Python)**  
+  Preprocessed and cleaned Melbourne housing data using **pandas**, and built regression models using **scikit-learn** to predict sale prices.  
+  Applied **Random Forest, Linear Regression**, and **Decision Tree**, achieving interpretable results and uncovering key price drivers.
 
 ---
 
