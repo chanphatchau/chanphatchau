@@ -59,7 +59,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/phatchau1612/)  
 - 📬 Email: chauchanphat1612@gmail.com  
-- 🌐 [Portfolio Website](https://your-portfolio.com) *(optional)*
+- 🌐 [Portfolio Website](https://your-portfolio.com)
 
 ---
 
