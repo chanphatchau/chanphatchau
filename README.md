@@ -41,7 +41,7 @@
 ## 🌟 Featured Projects
 
 - 🌍 **Global Electronics Retailer (SQL + Tableau)**  
-  Analyzed international sales, delivery performance, customer trends, and product categories using advanced SQL and interactive Tableau dashboards.
+  Analysed international sales, delivery performance, customer trends, and product categories using advanced SQL and interactive Tableau dashboards.
 
 - 🍕 **Pizza Sales Dashboard (Power BI)**  
   Visualized key sales metrics, customer behavior, and time-based trends. Delivered actionable insights to boost revenue and operational efficiency.
