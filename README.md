@@ -40,7 +40,7 @@
 
 ## 🌟 Featured Projects
 
-- 🌍 [**Global Electronics Retailer (SQL + Tableau)**](https://github.com/chanphatchau/Global-Electronics-Retailer-SQL-Queries) 
+- 🌍 [**Global Electronics Retailer (SQL + Tableau)**](https://github.com/chanphatchau/Global-Electronics-Retailer-SQL-Queries)
 Analysed international sales, delivery performance, customer trends, and product categories using advanced SQL and interactive Tableau dashboards.
 
 - 🍕 [**Pizza Sales Dashboard (Power BI)**](https://github.com/chanphatchau/Pizza-Sales-PowerBI)  
