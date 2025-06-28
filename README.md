@@ -55,7 +55,8 @@ Created a multi-page dashboard covering total sales, profit margin analysis, YTD
 - 🏘️ [**Melbourne Property Price Prediction (Python)**](https://github.com/chanphatchau/Property-Sales-of-Melbourne-Python)
 
 Preprocessed and cleaned Melbourne housing data using **pandas**, and built regression models using **scikit-learn** to predict sale prices.
-  Applied **Random Forest, Linear Regression**, and **Decision Tree**, achieving interpretable results and uncovering key price drivers.
+
+Applied **Random Forest, Linear Regression**, and **Decision Tree**, achieving interpretable results and uncovering key price drivers.
 
 ---
 
