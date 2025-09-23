@@ -44,9 +44,9 @@
 
 Analysed international sales, delivery performance, customer trends, and product categories using advanced SQL and interactive Tableau dashboards.
 
-- 🍕 [**Pizza Sales Dashboard (Power BI)**](https://github.com/chanphatchau/Pizza-Sales-PowerBI)
+- 🏥 [**Hospital Patient Records Analytics (SQL + Power BI)**](https://github.com/chanphatchau/Hospital-Patient-Records-Project-SQL-Queries-PowerBI)
 
-Visualized key sales metrics, customer behavior, and time-based trends. Delivered actionable insights to boost revenue and operational efficiency.
+Combined SQL-based data cleaning and deep analysis with interactive Power BI dashboards to monitor admissions, readmissions, insurance coverage, procedure costs, and patient demographics, delivering actionable insights into financial efficiency and healthcare trends.
 
 - 🚗 [**Car Sales Dashboard (Power BI)**](https://github.com/chanphatchau/Car-Sale-PowerBI)
 
@@ -54,9 +54,8 @@ Created a multi-page dashboard covering total sales, profit margin analysis, YTD
 
 - 🏘️ [**Melbourne Property Price Prediction (Python)**](https://github.com/chanphatchau/Property-Sales-of-Melbourne-Python)
 
-Preprocessed and cleaned Melbourne housing data using **pandas**, and built regression models using **scikit-learn** to predict sale prices.
-
-Applied **Random Forest, Linear Regression**, and **Decision Tree**, achieving interpretable results and uncovering key price drivers.
+  - Preprocessed and cleaned Melbourne housing data using **pandas**, and built regression models using **scikit-learn** to predict sale prices.
+  - Applied **Random Forest, Linear Regression**, and **Decision Tree**, achieving interpretable results and uncovering key price drivers.
 
 ---
 
